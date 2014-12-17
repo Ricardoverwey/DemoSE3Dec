@@ -28,23 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
             this.btnRicardo = new System.Windows.Forms.Button();
             this.Jeroen = new System.Windows.Forms.Button();
-            this.lbRicardo = new System.Windows.Forms.ListBox();
-            this.lbJeroen = new System.Windows.Forms.ListBox();
-
             this.SuspendLayout();
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(12, 99);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // btnRicardo
             // 
@@ -66,37 +52,13 @@
             this.Jeroen.UseVisualStyleBackColor = true;
             this.Jeroen.Click += new System.EventHandler(this.Jeroen_Click);
             // 
-
-            // lbRicardo
-            // 
-            this.lbRicardo.FormattingEnabled = true;
-            this.lbRicardo.Location = new System.Drawing.Point(644, 188);
-            this.lbRicardo.Name = "lbRicardo";
-            this.lbRicardo.Size = new System.Drawing.Size(120, 95);
-            this.lbRicardo.TabIndex = 2;
-
-            // lbJeroen
-            // 
-            this.lbJeroen.FormattingEnabled = true;
-            this.lbJeroen.Location = new System.Drawing.Point(366, 63);
-            this.lbJeroen.Name = "lbJeroen";
-            this.lbJeroen.Size = new System.Drawing.Size(120, 95);
-            this.lbJeroen.TabIndex = 2;
-
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(776, 295);
-
-            this.Controls.Add(this.lbRicardo);
-
-            this.Controls.Add(this.lbJeroen);
-
             this.Controls.Add(this.btnRicardo);
             this.Controls.Add(this.Jeroen);
-            this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -105,11 +67,8 @@
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button btnRicardo;
         private System.Windows.Forms.Button Jeroen;
-        private System.Windows.Forms.ListBox lbRicardo;
-        private System.Windows.Forms.ListBox lbJeroen;
     }
 }
 
