@@ -1,2 +1,6 @@
 C:\Users\Jody\Documents\GitHub\Hello WorldDemo\Hello WorldDemo\bin\Debug\Hello WorldDemo.exe.config
+<<<<<<< HEAD
 C:\Users\Jody\Documents\GitHub\DemoSE3Dec\Hello WorldDemo\Hello WorldDemo\bin\Debug\Hello WorldDemo.exe.config
+=======
+C:\Users\Jeroen\Documents\GitHub\DemoSE3Dec\Hello WorldDemo\Hello WorldDemo\bin\Debug\Hello WorldDemo.exe.config
+>>>>>>> origin/master
