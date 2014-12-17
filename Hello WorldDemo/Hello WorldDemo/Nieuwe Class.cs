@@ -8,5 +8,6 @@ namespace Hello_WorldDemo
 {
     class Nieuwe_Class
     {
+        //dit is een comment
     }
 }
