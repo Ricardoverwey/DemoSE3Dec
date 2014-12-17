@@ -8,6 +8,6 @@ namespace Hello_WorldDemo
 {
     class Class1
     {
-        // dit is een test
+        // dit is een comment
     }
 }
