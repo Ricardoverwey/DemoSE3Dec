@@ -16,17 +16,7 @@ namespace Hello_WorldDemo
         {
             InitializeComponent();
         }
-
-        private void Jeroen_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btnRicardo_Click(object sender, EventArgs e)
-{}
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
     }
+
+
 }
