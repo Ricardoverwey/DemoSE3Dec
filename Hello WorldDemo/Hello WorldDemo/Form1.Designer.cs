@@ -31,6 +31,7 @@
             this.btnRicardo = new System.Windows.Forms.Button();
             this.Jeroen = new System.Windows.Forms.Button();
             this.listView1 = new System.Windows.Forms.ListView();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnRicardo
@@ -61,11 +62,21 @@
             this.listView1.TabIndex = 2;
             this.listView1.UseCompatibleStateImageBehavior = false;
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(13, 32);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 3;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(776, 295);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.listView1);
             this.Controls.Add(this.btnRicardo);
             this.Controls.Add(this.Jeroen);
@@ -80,6 +91,7 @@
         private System.Windows.Forms.Button btnRicardo;
         private System.Windows.Forms.Button Jeroen;
         private System.Windows.Forms.ListView listView1;
+        private System.Windows.Forms.Button button1;
     }
 }
 
