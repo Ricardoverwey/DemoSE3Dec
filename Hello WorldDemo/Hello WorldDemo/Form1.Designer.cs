@@ -31,6 +31,7 @@
             this.button1 = new System.Windows.Forms.Button();
             this.btnRicardo = new System.Windows.Forms.Button();
             this.Jeroen = new System.Windows.Forms.Button();
+            this.lbJeroen = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // button1
@@ -52,6 +53,7 @@
             this.btnRicardo.Text = "Ricardo";
             this.btnRicardo.UseVisualStyleBackColor = true;
             this.btnRicardo.Click += new System.EventHandler(this.btnRicardo_Click);
+            // 
             // Jeroen
             // 
             this.Jeroen.Location = new System.Drawing.Point(12, 63);
@@ -62,13 +64,21 @@
             this.Jeroen.UseVisualStyleBackColor = true;
             this.Jeroen.Click += new System.EventHandler(this.Jeroen_Click);
             // 
+            // lbJeroen
+            // 
+            this.lbJeroen.FormattingEnabled = true;
+            this.lbJeroen.Location = new System.Drawing.Point(366, 63);
+            this.lbJeroen.Name = "lbJeroen";
+            this.lbJeroen.Size = new System.Drawing.Size(120, 95);
+            this.lbJeroen.TabIndex = 2;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 261);
-            this.Controls.Add(this.btnRicardo);
             this.ClientSize = new System.Drawing.Size(776, 295);
+            this.Controls.Add(this.lbJeroen);
+            this.Controls.Add(this.btnRicardo);
             this.Controls.Add(this.Jeroen);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
@@ -82,6 +92,7 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button btnRicardo;
         private System.Windows.Forms.Button Jeroen;
+        private System.Windows.Forms.ListBox lbJeroen;
     }
 }
 
