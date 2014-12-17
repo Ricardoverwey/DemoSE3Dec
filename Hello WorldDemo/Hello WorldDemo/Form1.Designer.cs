@@ -31,11 +31,9 @@
             this.button1 = new System.Windows.Forms.Button();
             this.btnRicardo = new System.Windows.Forms.Button();
             this.Jeroen = new System.Windows.Forms.Button();
-<<<<<<< HEAD
             this.lbRicardo = new System.Windows.Forms.ListBox();
-=======
             this.lbJeroen = new System.Windows.Forms.ListBox();
->>>>>>> origin/master
+
             this.SuspendLayout();
             // 
             // button1
@@ -68,7 +66,7 @@
             this.Jeroen.UseVisualStyleBackColor = true;
             this.Jeroen.Click += new System.EventHandler(this.Jeroen_Click);
             // 
-<<<<<<< HEAD
+
             // lbRicardo
             // 
             this.lbRicardo.FormattingEnabled = true;
@@ -76,7 +74,7 @@
             this.lbRicardo.Name = "lbRicardo";
             this.lbRicardo.Size = new System.Drawing.Size(120, 95);
             this.lbRicardo.TabIndex = 2;
-=======
+
             // lbJeroen
             // 
             this.lbJeroen.FormattingEnabled = true;
@@ -84,18 +82,18 @@
             this.lbJeroen.Name = "lbJeroen";
             this.lbJeroen.Size = new System.Drawing.Size(120, 95);
             this.lbJeroen.TabIndex = 2;
->>>>>>> origin/master
+
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(776, 295);
-<<<<<<< HEAD
+
             this.Controls.Add(this.lbRicardo);
-=======
+
             this.Controls.Add(this.lbJeroen);
->>>>>>> origin/master
+
             this.Controls.Add(this.btnRicardo);
             this.Controls.Add(this.Jeroen);
             this.Controls.Add(this.button1);
@@ -110,11 +108,8 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button btnRicardo;
         private System.Windows.Forms.Button Jeroen;
-<<<<<<< HEAD
         private System.Windows.Forms.ListBox lbRicardo;
-=======
         private System.Windows.Forms.ListBox lbJeroen;
->>>>>>> origin/master
     }
 }
 

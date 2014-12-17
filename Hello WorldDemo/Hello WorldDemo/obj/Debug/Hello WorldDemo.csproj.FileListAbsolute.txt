@@ -4,3 +4,11 @@ C:\Users\Jody\Documents\GitHub\DemoSE3Dec\Hello WorldDemo\Hello WorldDemo\bin\De
 =======
 C:\Users\Jeroen\Documents\GitHub\DemoSE3Dec\Hello WorldDemo\Hello WorldDemo\bin\Debug\Hello WorldDemo.exe.config
 >>>>>>> origin/master
+C:\Users\Jody\Documents\GitHub\DemoSE3Dec\Hello WorldDemo\Hello WorldDemo\bin\Debug\Hello WorldDemo.exe
+C:\Users\Jody\Documents\GitHub\DemoSE3Dec\Hello WorldDemo\Hello WorldDemo\bin\Debug\Hello WorldDemo.pdb
+C:\Users\Jody\Documents\GitHub\DemoSE3Dec\Hello WorldDemo\Hello WorldDemo\obj\Debug\Hello WorldDemo.csprojResolveAssemblyReference.cache
+C:\Users\Jody\Documents\GitHub\DemoSE3Dec\Hello WorldDemo\Hello WorldDemo\obj\Debug\Hello_WorldDemo.Form1.resources
+C:\Users\Jody\Documents\GitHub\DemoSE3Dec\Hello WorldDemo\Hello WorldDemo\obj\Debug\Hello_WorldDemo.Properties.Resources.resources
+C:\Users\Jody\Documents\GitHub\DemoSE3Dec\Hello WorldDemo\Hello WorldDemo\obj\Debug\Hello WorldDemo.csproj.GenerateResource.Cache
+C:\Users\Jody\Documents\GitHub\DemoSE3Dec\Hello WorldDemo\Hello WorldDemo\obj\Debug\Hello WorldDemo.exe
+C:\Users\Jody\Documents\GitHub\DemoSE3Dec\Hello WorldDemo\Hello WorldDemo\obj\Debug\Hello WorldDemo.pdb
