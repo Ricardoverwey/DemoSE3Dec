@@ -17,20 +17,14 @@ namespace Hello_WorldDemo
             InitializeComponent();
         }
 
-<<<<<<< HEAD
-        private void button1_Click(object sender, EventArgs e)
-=======
         private void Jeroen_Click(object sender, EventArgs e)
->>>>>>> origin/master
         {
 
         }
 
-<<<<<<< HEAD
         private void btnRicardo_Click(object sender, EventArgs e)
-=======
+{}
         private void button1_Click(object sender, EventArgs e)
->>>>>>> origin/master
         {
 
         }
